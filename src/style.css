@@ -1,0 +1,8 @@
+@media (min-width: 768px) {
+  .container{
+    display: flex;
+    flex-flow: column wrap;
+    margin: 0 auto;
+    max-width: 440px;
+  }
+}
